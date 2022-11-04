@@ -19,4 +19,7 @@ No Portfólio Possui a página de início onde está meu nome e tbm possui o bot
 <p>Link do React icon utilizado no projeto, para ser adicionado as tecnologias de sua preferência no projeto.</p>
 https://react-icons.github.io/react-icons/
 
+## Link para acessar o projeto abaixo:
+https://my-portfolio-gray-ten.vercel.app/
+
 
