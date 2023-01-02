@@ -1,6 +1,6 @@
-import MainContent from './componnts/MainContent'
-import './styles/components/app.sass'
-import Sidebar from './componnts/sidebar';
+import MainContent from './components/MainContent';
+import './styles/components/app.sass';
+import Sidebar from './components/sidebar';
 
 function App() {
   return (
@@ -12,4 +12,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
