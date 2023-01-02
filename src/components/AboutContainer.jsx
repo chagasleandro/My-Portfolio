@@ -21,7 +21,14 @@ const AboutContainer = () => {
 
             <p>
                 Testes automatizados com Cypress - Básico - (Udemy)
-            </p>     
+            </p>
+            <p>
+                Curso de Angular 2 (v15+) Typescript do Básico ao Avançado - (Udemy)
+            </p>
+
+            <p>
+            Construindo Progressive Web App's (PWA's) com Angular - (Udemy)
+            </p>    
                  
             
         </section>
