@@ -38,7 +38,7 @@ The following tools were used in this project:
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
 ## Link React-icon utilizado:
-<p>Link do React icon utilizado no projeto, para ser adicionado as tecnologias de sua preferência no projeto.</p>
+Link do React icon utilizado no projeto, para ser adicionado as tecnologias de sua preferência no projeto.
 [react-icon](https://react-icons.github.io/react-icons/)
 
 ## :checkered_flag: Starting ##
