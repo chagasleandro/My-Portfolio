@@ -20,7 +20,7 @@
 Portfólio criado baseado no que aprendi ultilizando as tecnologias React, Vite & JAVASCRIPT.
 
 ## :dart: About ##
-No Portfólio Possui a página de início onde está meu nome e tbm possui o botão de download onde irá abrir o meu curriculo para contato, logo abaixo uma descrição sobre mim. Na parte de projetos, estão os projetos em que eu fiz no meu GitHub.
+No Portfólio Possui a página de início onde está meu nome e, logo abaixo uma descrição sobre mim. Na parte de projetos, estão os projetos em que eu fiz no meu GitHub.
 
 ## :rocket: Technologies ##
 
