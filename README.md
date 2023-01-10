@@ -16,8 +16,8 @@
 
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
-## Descrição:
-Portfólio criado baseado no que aprendi ultilizando as tecnologias React, Vite & JAVASCRIPT.
+
+
 
 ## :dart: About ##
 No Portfólio Possui a página de início onde está meu nome e, logo abaixo uma descrição sobre mim. Na parte de projetos, estão os projetos em que eu fiz no meu GitHub.
